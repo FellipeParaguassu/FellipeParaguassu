@@ -1,0 +1,33 @@
+The Back Book
+"The Back Book" é um programa voltado para entusiastas da literatura que buscam praticidade na hora de emprestar seus livros, contando com ferramentais fundamentais no gerenciamento de "empréstimo"
+
+Contexto do projeto:
+O projeto foi criado inicialmente como apenas um desafio em busca de praticar os conhecimentos de programação em python da equipe mirim do Patrulha Eureka, com auxilio do tutor Ville Medeiros, entretanto, com o decorrer do projeto e imenso entusiasmo dos participantes, o projeto floresceu e se tornou o The Back Book (ainda incompleto, uma vez que planejamos implementar inteligência artificial na automação dos cadastros dos livros)
+
+Contexto negocial:
+
+O projeto busca auxiliar e muito qualquer um, independente de idade, a administrar seus livros, para quem empresta/emprestou, quando deve cobrar um livro devolta, quais livros ele pode emprestar no momento etc. Tudo de forma graruita e com uma interface amigável ao usuário.
+
+Contexto Técnico:
+A backend do projeto é realizada totalmente em python, já a interface será produzida em Flutter, onde:
+      *** planner *** 
+
+
+Por exemplo,
+Usuario x 
+Quer cadastrar 5 livros
+Emprestar 3
+E verificar status de outros antes cadastrados
+
+
+Frontend = Captura os dados e passa para as respectivas funções em python e posteriormente, repassa o resultado da máquina
+
+Backend = Separa e realiza as funções solicitadas pelo usuario, organiza em diferentes documentos dependendo das funções e devolve os resultados para a frontend
+
+Desse modo, o programa automatiza um processo de listagem e facilita o cadastro de datas, livros, para quem foi emprestado e os armazena, de modo que o usuario possa acessa-los quando quiser.
+
+Backend:
+O cadastro de informações fundamentado em python, cria um arquivo .json que armazena e manipula as informações de acordo com a vontade do usuário, aderindo ou removendo informações das multiplas listas.
+
+Documentação:
+Para mais detalhes consulte:
